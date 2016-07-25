@@ -1,0 +1,5 @@
+dist/README.TXT
+dist/
+build/
+nbproject/
+build.xml
